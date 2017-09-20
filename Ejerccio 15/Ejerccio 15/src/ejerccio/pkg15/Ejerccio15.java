@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ejerccio.pkg15;
-import java.util.Scanner
+import java.util.Scanner;
 
 /**
  *
@@ -50,5 +50,3 @@ public class Ejerccio15 {
         
         
     }
-    
-}
