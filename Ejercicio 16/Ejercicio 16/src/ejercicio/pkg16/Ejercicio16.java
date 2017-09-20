@@ -36,7 +36,7 @@ public class Ejercicio16 {
         
         desc= pasaje*10/100;
         valorPasaje= pasaje- desc;
-        if("enero".equals(enero))    
+        if("enero".equals(mes))    
         { 
             System.out.println("Felicitaciones!! Su pasaje sale:"+valorPasaje);
         }
@@ -45,3 +45,4 @@ public class Ejercicio16 {
             System.out.println("Su pasaje sale:"+pasaje);
         }
     }
+}
